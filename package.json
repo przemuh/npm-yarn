@@ -5,7 +5,8 @@
   "description": "npm vs yarn benchmark",
   "private": true,
   "keywords": [
-    "npm", "yarn"
+    "npm",
+    "yarn"
   ],
   "license": "SEE LICENSE IN LICENSE",
   "engines": {
